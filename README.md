@@ -84,6 +84,33 @@ You can use the following job descriptions to test the AI Resume Matcher or use 
    Seeking an AI/ML Engineer with strong knowledge of deep learning, NLP, and computer vision. Must be
    proficient in Python, TensorFlow, and OpenCV. Experience with LLMs is a plus.
 
+## Sample Job Descriptions for Testing
+
+You can use the following job descriptions to test the AI Resume Matcher or use any job description according to you.
+
+1. **Frontend Developer**  
+   We are looking for a Frontend Developer skilled in React.js, JavaScript, and UI/UX principles. Knowledge of 
+   Tailwind CSS and TypeScript is a plus. The role involves building responsive and interactive 
+   web applications.
+
+2. **Data Scientist**  
+   Seeking a Data Scientist with expertise in Python, machine learning, and data visualization. Experience with
+   TensorFlow, PyTorch, and SQL is preferred. The role involves analyzing large datasets and developing 
+   predictive models.
+
+3. **Backend Engineer**  
+   Hiring a Backend Engineer proficient in Node.js, Express.js, and database management (PostgreSQL, MongoDB).
+   Experience with RESTful APIs and cloud services like AWS or Azure is a plus.
+
+4. **Cybersecurity Analyst**  
+   Looking for a Cybersecurity Analyst skilled in network security, penetration testing, and threat detection.
+   Familiarity with tools like Wireshark, Metasploit, and SIEM solutions is preferred.
+
+5. **AI/ML Engineer**  
+   Seeking an AI/ML Engineer with strong knowledge of deep learning, NLP, and computer vision. Must be
+   proficient in Python, TensorFlow, and OpenCV. Experience with LLMs is a plus.
+
+
 ## 📝 Future Improvements
 - 🔥 Resume improvement suggestions
 - 🧠 AI-based resume optimization tips
