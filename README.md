@@ -31,7 +31,7 @@ streamlit run app.py
 ```
 
 ## 📸 Screenshots
-![Demo](link_to_your_screenshot_or_gif)
+![AI Resume Checker Screenshot](screenshot.png)
 
 ## 📑 File Structure
 ```
