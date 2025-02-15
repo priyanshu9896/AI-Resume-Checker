@@ -17,3 +17,14 @@ def preprocess_text(text):
     text = re.sub(r'\s+', ' ', text)  # Normalize spaces
     text = re.sub(r'[^a-zA-Z0-9\s]', '', text)  # Remove special characters
     return text
+
+def suggest_resume_improvements(text):
+    """Suggests possible improvements in the resume text."""
+    suggestions = []
+    if len(text.split()) < 150:
+        suggestions.append("Consider adding more content to your resume to provide sufficient details about your experience.")
+    if "teamwork" not in text and "collaboration" not in text:
+        suggestions.append("Mentioning teamwork or collaboration can make your resume more appealing to employers.")
+    if "leadership" not in text:
+        suggestions.append("Adding leadership experience or skills can strengthen your resume.")
+    return suggestions

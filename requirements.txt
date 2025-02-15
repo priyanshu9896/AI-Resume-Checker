@@ -3,3 +3,7 @@ transformers
 torch
 sentence-transformers
 PyPDF2
+numpy
+Py
+
+pip install -r requirements.txt
